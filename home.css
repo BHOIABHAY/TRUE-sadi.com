@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-image: url(A2.jpg);
+    background-repeat: no-repeat repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    scroll-behavior: auto;
+    
+    
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    
+    font-weight: bolder;
+    color:rgb(56, 5, 5)
+    
+}
+form{
+    font-weight: bold;
+    margin: 75px;
+   font-style: oblique;
+}
+
+   
+#submit:hover{
+    background-color:dodgerblue;
+    
+}
+    
+
+#NUMBER:hover,#OTP:hover{
+    background-color: lightblue;
+}
+
+
